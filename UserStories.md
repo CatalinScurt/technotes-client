@@ -5,7 +5,7 @@
 3. [x] Add an employee login to the notes app 
 4. [x] Provide a welcome page after login 
 5. [x] Provide easy navigation
-6. [] Display current user and assigned role 
+6. [x] Display current user and assigned role 
 7. [x] Provide a logout option 
 8. [x] Require users to login at least once per week
 9. [x] Provide a way to remove employee access asap if needed 
